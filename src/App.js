@@ -3,6 +3,7 @@ import Page1 from './Page1';
 import Page2 from './Page2';
 import Page3 from './Page3';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import './App.scss'
 
 
 function App() {
